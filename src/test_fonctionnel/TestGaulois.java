@@ -24,8 +24,7 @@ public class TestGaulois {
 		}
 
 		Romain brutus = new Romain("Brutus", 14);
-		Chaudron chaudron = new Chaudron(0, 0);
-		Druide panoramix = new Druide("Panoramix", 2, chaudron);
+		Druide panoramix = new Druide("Panoramix", 2);
 		
 		panoramix.fabriquerPotion(4, 3);
 		panoramix.booster(obelix);

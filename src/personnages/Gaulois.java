@@ -8,7 +8,6 @@ public class Gaulois {
 	public Gaulois(String nom, int force) {
 		this.nom = nom;
 		this.force = force;
-		this.effetPotion = effetPotion;
 	}
 
 	public String getNom() {
