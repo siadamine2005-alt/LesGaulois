@@ -40,7 +40,7 @@ public class Druide {
 				parler("Tiens " + nomGaulois + " un peu de potion magique.");
 			}
 		} else {
-			parler("Dédolé " + nomGaulois + " il n'y a plus une seule goutte de potion.");
+			parler("Désolé " + nomGaulois + " il n'y a plus une seule goutte de potion.");
 		}
 	}
 }
