@@ -1,6 +1,5 @@
 package test_fonctionnel;
 
-import personnages.Chaudron;
 import personnages.Druide;
 import personnages.Gaulois;
 import personnages.Romain;
@@ -35,3 +34,4 @@ public class TestGaulois {
 		}
 	}
 }
+
